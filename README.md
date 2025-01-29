@@ -1,4 +1,4 @@
-## Repositório com conteúdo pertinente ao projeto de mestrado ICESP-CTO
+## Repositório do projeto de mestrado ICESP-CTO
 
 ### Autor: Arthur Shuzo Owtake Cardoso
 
